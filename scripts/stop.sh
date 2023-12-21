@@ -2,4 +2,4 @@
 
 cd src/docker
 
-sudo docker-compose up
+docker-compose down

@@ -16,4 +16,4 @@ docker-compose down
 docker rmi spring-project:latest
 
 # # Build and run Docker containers
-# docker-compose up
+docker-compose up
